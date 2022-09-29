@@ -89,6 +89,7 @@ body {
 .card .stats span {
   display: block;
   font-weight: 700;
+  color: var(--very-dark-desaturated-blue);
 }
 
 .card .stats p {
